@@ -1,0 +1,12 @@
+{
+  "name": "day-poems",
+  "version": "1.0.0",
+  "description": "Divide a day into 11 poetic moments, each with a verse to keep you company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

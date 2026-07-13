@@ -2,7 +2,7 @@
 
 A TypeScript library that divides the 24-hour day into 11 poetic time periods — each with a name, a description, and a classical Chinese poem (bilingual in Chinese and English).
 
-![Preview](./preview.jpg)
+![Preview](./Preview.jpg)
 
 ## Installation
 
